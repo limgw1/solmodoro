@@ -1,6 +1,7 @@
 # Solmodoro
 The Solmodoro is a Pomodoro timer app that I will create in order to promote its usage to study with.
-Originally I would run a James Schulz stream vod on youtube, but that would involve opening chrome and burning memory space.
+Originally I would run a James Schulz stream vod on youtube, but that would involve opening chrome and consuming unnecessary RAM, on top of Youtube sometimes lagging after leaving the tab in the background for too long, ruining the audio.
+This will be my first project that I will take part in to learn how to create Python Apps and a little bit of Data Analytics with the Tracker, all feedback is welcome.
 
 ## Solmodoro Features Include:
 ### 1. Pomodoro Timer+ (WIP)
