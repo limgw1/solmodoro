@@ -7,7 +7,7 @@ This will be my first project that I will take part in to learn how to create Py
 ### 1. Pomodoro Timer+ (WIP)
 The basic Pomodoro timer with extra features:
 1. You can set how long you want your study and break sessions
-2. When the study session ends, an alarm will sound. The break will only begin counting down when you click "Start Break/Study Session"
+2. When the study session ends, an alarm will sound. The break/study session will only begin counting down when you click "Start Break/Study Session"
 3. Extra time will be reduced from the next study session. Not sure if I want to do the same for the break timer.
 
 ### 2. Customizable BGM/Sound (WIP)
