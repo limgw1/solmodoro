@@ -21,6 +21,8 @@ Have a questionnaire after I click "Stop Studying" to fill in more information l
 ### 4. Break Todo List (Unsure if I want it)
 During study sessions, small button to write down some things that cross my mind mid session. Then view that list during break session.
 
-Trivia: The name Solmodoro is a mix of Pomodoro and Solmi
+Trivia: The name Solmodoro is a mix of Pomodoro and Solmi 
+<br>
 :solmiSmile:
-![Picture of Solmi](https://imgur.com/GwvNaJH)
+<br>
+![Picture of Solmi](https://imgur.com/GwvNaJH.png)
